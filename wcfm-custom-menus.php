@@ -5,7 +5,7 @@
  * Description: Custom Brand menu.
  * Author: Gblessylva for WC Lovers
  * Version: 1.0.0
- * Author URI: http://wclovers.com
+ * Author URI: http://github.com/gblessylva.com
  *
  * Text Domain: wcfm-custom-menus
  * Domain Path: /lang/
