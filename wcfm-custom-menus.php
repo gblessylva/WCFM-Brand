@@ -3,7 +3,7 @@
  * Plugin Name: WCFM - Brand Menu
  * Plugin URI: http://wclovers.com
  * Description: Custom Brand menu.
- * Author: WC Lovers
+ * Author: Gblessylva for WC Lovers
  * Version: 1.0.0
  * Author URI: http://wclovers.com
  *
